@@ -2,7 +2,7 @@
 
 ##Pre instalacion 
 
-1.- Como primer paso fue verifique los componentes de softwere que tenia mi laptop como:
+1.- Como primer paso fue verifique los componentes de softwere que tenia mi laptop como:\n
   -Procesador.
   -RAM.
   -ROM.
